@@ -134,6 +134,13 @@ http://localhost:5173
 
 ---
 
+## 📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b2b839f-21ed-4848-ad54-fa64a1cba864" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c678b7ca-180c-44f5-9b29-21b24195ed48" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b206b52b-715f-409d-984f-d7f34ab6f88e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aac87021-2ebc-44ed-ae27-03d07fc8f441" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe7509de-5c5c-42d3-b938-0a3daaee4227" />
+
 ## 🔮 Future Enhancements
 
 - User Authentication
@@ -147,6 +154,9 @@ http://localhost:5173
 
 ## 👩‍💻 Author
 
-**Dhanya H**
+**Dhanyashree H**
 
+Demo video link : https://drive.google.com/file/d/18e9zPXjKQSucbeNRm1_c8aNxTIRUKiOK/view?usp=sharing
 GitHub: https://github.com/dhAnya-ghr
+
+
